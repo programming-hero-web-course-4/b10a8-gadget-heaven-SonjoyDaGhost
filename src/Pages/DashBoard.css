@@ -1,0 +1,7 @@
+ .dashboard.active{
+    background-color: white;
+
+}
+.dashboard.active:hover{
+    background-color: white;
+}

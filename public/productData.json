@@ -1,0 +1,223 @@
+[
+      {
+        "product_id": "P001",
+        "product_title": "iPhone 15 Pro",
+        "product_image": "https://i.ibb.co.com/zQX0QFf/file-13.jpg",
+        "category": "Phone",
+        "price": 999.99,
+        "description": "The latest iPhone with a powerful A17 chip, 5G, and an improved camera system.",
+        "Specification": [
+          "6.1-inch OLED display",
+          "A17 Bionic chip",
+          "128GB storage",
+          "12MP triple-camera system",
+          "5G connectivity"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co.com/pwzR1mc/file-9.jpg",
+        "category": "Phone",
+        "price": 849.99,
+        "description": "Samsung's flagship phone with a stunning AMOLED display and powerful Exynos processor.",
+        "Specification": [
+          "6.2-inch AMOLED display",
+          "Exynos 2200 processor",
+          "256GB storage",
+          "50MP camera",
+          "5G support"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "P003",
+        "product_title": "Google Pixel 8",
+        "product_image": "https://i.ibb.co.com/G9vVg9n/file-3.png",
+        "category": "Phone",
+        "price": 699.99,
+        "description": "The latest Google Pixel with AI-enhanced photography and a pure Android experience.",
+        "Specification": [
+          "6.4-inch OLED display",
+          "Google Tensor G3 chip",
+          "128GB storage",
+          "50MP dual-camera system",
+          "5G connectivity"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "P004",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/6ymwQ67/file-12.jpg",
+        "category": "Phone",
+        "price": 749.99,
+        "description": "A fast and smooth flagship phone with an AMOLED display and 120Hz refresh rate.",
+        "Specification": [
+          "6.7-inch AMOLED display",
+          "Snapdragon 8 Gen 2",
+          "256GB storage",
+          "50MP triple-camera",
+          "5G support"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "P005",
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co.com/4j4w9mF/file-9.jpg",
+        "category": "Phone",
+        "price": 899.99,
+        "description": "Xiaomi's flagship phone with Leica optics, a 50MP camera, and Snapdragon 8 Gen 2.",
+        "Specification": [
+          "6.73-inch AMOLED display",
+          "Snapdragon 8 Gen 2",
+          "256GB storage",
+          "50MP Leica triple-camera",
+          "5G support"
+        ],
+        "availability": false,
+        "rating": 4.6
+      },
+      {
+        "product_id": "P006",
+        "product_title": "Sony Xperia 1 IV",
+        "product_image": "https://i.ibb.co.com/4WqnS6y/file.webp",
+        "category": "Phone",
+        "price": 1099.99,
+        "description": "A high-end smartphone with a 4K OLED display and professional-grade camera features.",
+        "Specification": [
+          "6.5-inch 4K OLED display",
+          "Snapdragon 8 Gen 1",
+          "256GB storage",
+          "12MP quad-camera system",
+          "5G connectivity"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": "P007",
+        "product_title": "Motorola Edge 40 Pro",
+        "product_image": "https://i.ibb.co.com/tcwWW6b/file-10.jpg",
+        "category": "Phone",
+        "price": 799.99,
+        "description": "Motorola's premium phone with a 6.7-inch OLED display and Snapdragon 8 Gen 2.",
+        "Specification": [
+          "6.7-inch OLED display",
+          "Snapdragon 8 Gen 2",
+          "256GB storage",
+          "50MP dual-camera",
+          "5G support"
+        ],
+        "availability": true,
+        "rating": 4.3
+      },
+      {
+        "product_id": "L001",
+        "product_title": "MacBook Pro 14-inch (2023)",
+        "product_image": "https://i.ibb.co.com/7CSDGWL/file-11.jpg",
+        "category": "Laptop",
+        "price": 1999.99,
+        "description": "Apple's 14-inch MacBook Pro with the M2 Pro chip, Retina display, and long battery life.",
+        "Specification": [
+          "14-inch Liquid Retina display",
+          "Apple M2 Pro chip",
+          "16GB RAM",
+          "512GB SSD",
+          "macOS"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "L002",
+        "product_title": "Dell XPS 13 (2023)",
+        "product_image": "https://i.ibb.co.com/kxgjjcP/file-9.jpg",
+        "category": "Laptop",
+        "price": 1299.99,
+        "description": "A premium ultrabook with Intel's 12th Gen i7 chip, 13.4-inch InfinityEdge display.",
+        "Specification": [
+          "13.4-inch InfinityEdge display",
+          "Intel Core i7-1260P",
+          "16GB RAM",
+          "512GB SSD",
+          "Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "L003",
+        "product_title": "HP Spectre x360 14",
+        "product_image": "https://i.ibb.co.com/wJVd09P/file-10.jpg",
+        "category": "Laptop",
+        "price": 1599.99,
+        "description": "HP Spectre x360 is a powerful 2-in-1 laptop with a stunning OLED display and Intel i7 chip.",
+        "Specification": [
+          "13.5-inch OLED display",
+          "Intel Core i7-1255U",
+          "16GB RAM",
+          "512GB SSD",
+          "Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "S001",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/8jfJ7Rf/file-3.png",
+        "category": "Smartwatch",
+        "price": 399.99,
+        "description": "Apple's latest smartwatch with advanced health tracking, always-on display, and ECG capabilities.",
+        "Specification": [
+          "Always-on Retina display",
+          "ECG and Blood Oxygen apps",
+          "GPS + Cellular",
+          "Swim-proof design",
+          "watchOS 9"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "S002",
+        "product_title": "Samsung Galaxy Watch 6",
+        "product_image": "https://i.ibb.co.com/HgD6q7z/file-4.png",
+        "category": "Smartwatch",
+        "price": 349.99,
+        "description": "Samsung's Galaxy Watch 6 offers fitness tracking, heart-rate monitoring, and sleep tracking.",
+        "Specification": [
+          "1.5-inch Super AMOLED display",
+          "GPS and heart-rate monitor",
+          "Water resistant",
+          "Runs Wear OS"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "S003",
+        "product_title": "Fitbit Versa 4",
+        "product_image": "https://i.ibb.co.com/4SCwjpF/file-5.png",
+        "category": "Smartwatch",
+        "price": 199.99,
+        "description": "A budget-friendly fitness smartwatch with a focus on health tracking features.",
+        "Specification": [
+          "1.58-inch AMOLED display",
+          "Heart-rate and sleep tracking",
+          "Built-in GPS",
+          "Water-resistant up to 50m"
+        ],
+        "availability": true,
+        "rating": 4.2
+      }
+    ]
+  
+  

@@ -1,0 +1,19 @@
+[
+    {
+        "category_id": "C004",
+        "category": "All Product"
+    },
+    {
+        "category_id": "C001",
+        "category": "Phone"
+    },
+    {
+        "category_id": "C002",
+        "category": "Laptop"
+    },
+    {
+        "category_id": "C003",
+        "category": "Smartwatch"
+    }
+    
+]
